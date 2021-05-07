@@ -1,3 +1,2 @@
 Welcome to RISE
-
-Git is simple but complex to understand at the start!
+Git is simple yet complex!
